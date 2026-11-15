@@ -1,3 +1,3 @@
 # Disable Secure Element eSE1 HAL
 ## KernelSu Module
-Stops secure_element_hal_service at boot to prevent crash loops
+Stops `secure_element_hal_service` at boot to prevent crash loops on Infinity X 4.2.
