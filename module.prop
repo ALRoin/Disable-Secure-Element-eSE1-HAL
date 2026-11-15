@@ -1,0 +1,6 @@
+id=fix_se_hal
+name=Disable Secure Element eSE1 HAL
+version=1.0
+versionCode=1
+author=ALRoin
+description=Stops secure_element_hal_service at boot to prevent crash loops
